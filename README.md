@@ -15,9 +15,9 @@
 
 ## 📖 Overview
 
-`P-gina web b-sica` is a lightweight, structured web template crafted to serve motorcycle-themed websites. It provides a clean, organized layout that highlights different motorcycle categories such as cross, vintage, and road bikes, making it easy for users to explore content and navigate seamlessly. This project aims to streamline the development of niche motorcycle sites by offering a ready-made webpage structure.
+`Basic Website` is a lightweight, structured web template crafted to serve motorcycle-themed websites. It provides a clean, organized layout that highlights different motorcycle categories such as cross, vintage, and road bikes, making it easy for users to explore content and navigate seamlessly. This project aims to streamline the development of niche motorcycle sites by offering a ready-made webpage structure.
 
-### Why P-gina web b-sica?
+### Why Basic Website?
 
 The core features include:
 
